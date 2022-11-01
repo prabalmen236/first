@@ -1,6 +1,7 @@
 # Prabal Mendiratta
 
 contact: 204-951-4184
+
 Email: mendirap@myumanitoba.ca
 
 ## EDUCATION
